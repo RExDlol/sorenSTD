@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sorenSTD_Mr_PleaseEditMe",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sorenSTD_Mr_PleaseEditMe",
+  "parent":{
+    "name":"sorenSTD",
+    "path":"folders/sorenSTD.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
