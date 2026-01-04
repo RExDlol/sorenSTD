@@ -10,7 +10,7 @@ Hello! Gamemaker is a really cool engine! But there's lot of things that i wish 
 
 # How to use
 
-Head over the "**Wiki**" tab! it has all the info you'll need to use it! I made it easy to use!
+Head over the "**Wiki**" tab (not finished yet...)! it has all the info you'll need to use it! I made it easy to use!
 The syntax is a little different: i LOVE c++ and i don't love library conflicts by functions and this type of thing, so all of the modules are encapsulated in "namespaces",
 like `Input.bind_key()`;
 
