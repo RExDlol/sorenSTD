@@ -297,5 +297,7 @@ global.__Srn_Namespace_Math = {
     ease_elastic_in_out: __Srn_Ease_Elastic_InOut,
     
     verlet_create_world: __Srn_Verlet_Create_World,
-    verlet_config_class: __Srn_Verlet_World_Config_Class
+    verlet_config_class: __Srn_Verlet_World_Config_Class,
+    
+    vec2: __Srn_Vec2,
 };

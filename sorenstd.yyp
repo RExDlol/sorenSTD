@@ -48,6 +48,7 @@
   },
   "name":"sorenstd",
   "resources":[
+    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"__sorenSTDCameraController","path":"objects/__sorenSTDCameraController/__sorenSTDCameraController.yy",},},
     {"id":{"name":"__sorenSTDCoreController","path":"objects/__sorenSTDCoreController/__sorenSTDCoreController.yy",},},
     {"id":{"name":"__sorenSTDEffectsController","path":"objects/__sorenSTDEffectsController/__sorenSTDEffectsController.yy",},},
@@ -59,6 +60,7 @@
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},},
     {"id":{"name":"obj_hello","path":"objects/obj_hello/obj_hello.yy",},},
     {"id":{"name":"obj_srn","path":"objects/obj_srn/obj_srn.yy",},},
+    {"id":{"name":"obj_test","path":"objects/obj_test/obj_test.yy",},},
     {"id":{"name":"obj_verlet","path":"objects/obj_verlet/obj_verlet.yy",},},
     {"id":{"name":"__sorenSTD_Init_Room","path":"rooms/__sorenSTD_Init_Room/__sorenSTD_Init_Room.yy",},},
     {"id":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},},

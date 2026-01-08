@@ -36,3 +36,7 @@ function __Srn_Effect_Generic_Class(_shader) constructor {
         shader_reset();
     }
 }
+
+global.__Srn_Namespace_Effects = {
+    create_effect_class: __Srn_Effect_Generic_Class,
+}

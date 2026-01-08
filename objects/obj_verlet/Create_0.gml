@@ -12,8 +12,8 @@ corda3.points[99].fixed = true;
 
 start_x = 100;
 
-PostProcessing.remove("retro")
-
+//PostProcessing.remove("retro")
+//
 PostProcessing.add("r", __shader_bayer_dithering_4x4_game_color_pp).set_param("u_quantize", 4.0).set_param("u_factor", 1.0);
 
 for (var i = 0; i < 5; i ++) {

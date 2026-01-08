@@ -103,6 +103,8 @@ function __Srn_Input_Released(_key) {
     return global.__Srn_Inst_Input.key_map[? _key].released;
 }
 
+/// @func fetch_keys()
+/// @description Fetches all the keys. For debug purposes
 function __Srn_Input_Fetch_Keys() {
     var _keys = ds_map_keys_to_array(global.__Srn_Inst_Input.key_map);
 
