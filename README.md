@@ -9,6 +9,8 @@ Hello! Gamemaker is a really cool engine! But there's lot of things that i wish 
 - Physics (like verlet ropes)
 - (and there will be more!!)
 
+(oh, if you'd like to contribute, i'm writing a full tutorial of how the lib works internally)
+
 # How to use
 
 Head over the "**Wiki**" tab (not finished yet...)! it has all the info you'll need to use it! I made it easy to use!
@@ -18,6 +20,7 @@ like `Input.bind_key()`;
 # Phylosophy
 
 Everything is totally Optional! You don't need to use the camera or the Math module if you don't want, they're are totally independant!
+
 
 # Note
 **I'm not the best programmer on earth (like Terry Davis), so expect some bad things. But hey, this is an open-source project! You can fork this or even PR to make or add something you like!**
